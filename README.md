@@ -1,2 +1,4 @@
 # A-multiscale-atlas-of-the-molecular-and-cellular-architecture-of-the-human-kidney
 Data and notebook relevant to the following publication: "A multiscale atlas of the molecular and cellular architecture of the human kidney" by Elizabeth K. Neumann, Nathan Heath Patterson, Leonoor E.M. Tideman,  Lukasz G. Migas, Madeline E. Colley, Melissa A. Farrow, Jamie L. Allen, Emilio S. Rivera, Carrie E. Romer, Haichun Yang, Maya Brewer, Kavya Sharman, Raymond C. Harris, Agnes B. Fogo, Danielle B. Gutierrez,  Mark P. de Caestecker, Richard M. Caprioli, Raf Van de Plas, Jeffrey M. Spraggins.
+
+The notebook can be used to reproduce Figures S69, S70, S71, S72, S74, S75, S76, S77, S79, S80, S81, S82, S84, S85, S86, S87 in the supplementary material of the manuscript. Intermediate results (necessary for making the figures) are stored in the Data_Summary_Plot folder.
